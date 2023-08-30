@@ -1,0 +1,243 @@
+.container{
+    width:100%;
+    height:100%;
+}
+p{
+    margin: 0%;
+}
+.Header{
+    width:100%;
+    height:80px;
+    background:white;
+    display:flex;
+    flex-direction: row;
+}
+body{
+    margin:0;
+      
+}
+.image{
+    margin-left: 15px;
+    padding-top: 25px;
+    width:271px;
+    height:21px;
+}
+.letters{
+    margin-top: 33px;
+    font-size: 14px;
+    color: rgb(3, 35, 75);
+    float: left;
+    font-family: 'Helvetica';
+    margin-left: 30px;
+    display:flex;
+}
+.Main1{
+    height: 666px;
+    background-color: #333;
+    width:100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color:white;
+    line-height: 0px;
+}
+.para1{
+    margin-top:30px;
+    padding-top: 10px;
+}
+.para2{
+    margin-top: 24px;
+}
+.Main2{
+    width:100%;
+    height:500px;
+    display: flex;
+    flex-direction: row;
+}
+.left{
+    width:40%;
+    height:500px;
+    background-image: url("img/img-jockey-mask-logo.png");
+    background-size:cover;
+    position: relative;
+}
+.right{
+    width:60%;
+    height:500px;
+}
+.buttonz{
+    width:50%;
+    height:100px;
+    display:flex;
+    flex-direction: row;
+}
+.locator,.online{
+    width:200px;
+    height:70px;
+    margin-left: 15px;
+    margin-top: 20px;
+    background-color: #0d1f35;
+    color:#fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 13px;
+    font-weight: lighter;
+}
+
+.img{
+    float:right;
+    width:824.46px;
+    height:494.68px;
+    margin-right: 17px;
+}
+.img1{
+    margin-top: 75px;
+    margin-left: 211px;
+    
+}
+.para3{
+    margin-left: 10px;
+    margin-top: 32px;
+    font-size: 14px;
+    line-height: 24px;
+    color:#333;
+}
+.Main3{
+    width:100%;
+    height:600px;
+    display: flex;
+    flex-direction: row;
+}
+.left1{
+    width:55%;
+    height:600px;
+
+}
+.right1{
+    width:45%;
+    height:600px;
+    display: flex;
+    flex-direction: column;
+}
+.down{
+    width:100%;
+    height:130px;
+}
+.img2{
+    width:824.46px;
+    height:494.68px;
+    margin-top: 50px;
+    margin-left: 10px
+
+}
+.img3{
+    margin-top: 107px;
+    margin-left: 175px;
+}
+.para4{
+    font-size: 14px;
+    line-height: 24px;
+    margin-left: 60px;
+    font-family: 'Helvetica';
+    margin-top: 25px;
+    color:#333;
+}
+.footer{
+    width:100%;
+    height:60px;
+    background:#0d1f35;
+    display:flex;
+    justify-content:center;
+    align-items: center;
+}
+.a{
+    color:white;
+    margin-left: 40px;
+    font-size: 14px;
+    font-family: 'Helvetica';
+    padding-left: 15px;
+}
+.space{
+    width:100%;
+    height:125px;
+    display:flex;
+    align-items: center;
+}
+.space1{
+    width:100%;
+    height:26.4px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.brand{
+    color:#ED2024;
+    background-color: white;
+    height:26.4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width:117px;
+    font-size: 25px;
+
+
+}
+.info{
+    width:70%;
+    height:80px;
+    justify-content: center;
+}
+.logo{
+    width:30%;
+    height:80px;
+}
+.logo2{
+    width:1240px;
+    height:95.5px;
+}
+.buttonz1{
+    color:white;
+    width:160px;
+    height:75px;
+    margin-left: 60px;
+    border-style: none;
+}
+.tag{
+    background-color:#ff0000;
+    color:#fff;
+    width:150px;
+    height:70px;
+    margin-left: 60px;
+    margin-top: 30px;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 14px;
+}
+.icons{
+    width:34px;
+    height:34px;
+    padding-left:13px;
+}
+.icon{
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+}
+.icon2{
+    display: flex;
+    justify-content: center;
+}
+.icons2{
+    width:34px;
+    height:34px;
+    padding-left:13px;
+}
+.info,.logo,.locator,.online,.icon,.tag,.a,.icon2:hover{
+    cursor:pointer;
+}
