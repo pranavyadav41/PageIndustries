@@ -43,6 +43,7 @@ body{
     justify-content: center;
     color:white;
     line-height: 0px;
+    font-family: 'Helvetica';
 }
 .para1{
     margin-top:30px;
@@ -56,6 +57,7 @@ body{
     height:500px;
     display: flex;
     flex-direction: row;
+    font-family: 'Helvetica';
 }
 .left{
     width:40%;
